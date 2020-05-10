@@ -14,4 +14,8 @@ public class AppTest{
 		System.out.println("test 2");
 	}
 	
+	@Test
+	public void Test3() {
+		System.out.println("test 2");
+	}
 }
